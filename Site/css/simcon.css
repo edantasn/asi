@@ -1,0 +1,65 @@
+/* :::::::::::::::::::::::::::::: PADRÕES ::::::::::::::::::::::::::::::*/
+a:link { outline: none; }
+body {
+  background: #e0e0e0;
+  font: normal 15px 'MyriadPro-Regular', Calibri, Garuda, Kalimati;
+}
+.coluna {
+  padding: 0;
+}
+.topo {
+  background: #2992b2;
+  color: #fff;
+}
+.login {
+  height: 60px;
+}
+.table {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.banner {
+  background: url("../img/banner.jpg") no-repeat center;
+  min-height: 400px;
+}
+.bloco-perfil {
+  text-align: center;
+}
+.bloco-perfil p {
+  text-align: justify;
+}
+a.perfil {
+  display: block;
+  outline: none;
+  height: 90px;
+  margin: 0 auto;
+  width: 110px;
+}
+.search input[type='text'] {
+  color: #fff;
+  float: right;
+  font-style: italic;
+}
+.banner-f {
+  background: #ff5757;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.banner-f p {
+  text-align: center;
+}
+.rodape {
+  background: #157da2;
+  color: #fff;
+  margin-top: 600px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  text-align: center;
+}
