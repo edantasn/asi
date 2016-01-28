@@ -25,7 +25,7 @@
     </head>
     <body>
 
-        <div class="container">
+        <div class="container tudo">
             <div class="row">
 
                 <div class="coluna col-md-2">
@@ -44,22 +44,18 @@
                         </ul>
                     </div>
 
-                    <footer class="rodape">
-                        © Copyright 2016 - SIMCON <br>
-                        All rights reserved.
-                    </footer>
                 </div>
 
                 <div class="content col-md-10">
                     <div class="topo row">
-                        <div class="login col-md-6">
+                        <div class="login col-xs-6">
                             <div class="table">
                                 <div class="cell">
                                     Área de login
                                 </div>
                             </div>
                         </div>
-                        <div class="search col-md-4 pull-right">
+                        <div class="search col-md-4 col-xs-6 pull-right">
                             <form action="" class="">
                                 <input type="text" class="form-control" name="" id="" placeholder="Exemplo: Endodontia" required>
                             </form>
@@ -73,14 +69,14 @@
                             <h2>Dúvidas de como funciona?</h2>
                         </div>
                         <div class="bloco-perfil col-sm-4 col-md-offset-2">
-                            <a class="perfil" href=""><img class="img-responsive" src="img/icone_dentista.jpg" alt="Ícone perfil"></a><br>
+                            <a class="perfil" href=""><img class="img-responsive" src="img/tooth26.png" alt="Ícone perfil"></a><br>
                             <h4>Dentista</h4>
                             <p>
                                 Primeiro eu queria cumprimentar os internautas. -Oi Internautas! Depois dizer que o meio ambiente é sem dúvida nenhuma uma ameaça ao desenvolvimento sustentável. E isso significa que é uma ameaça pro futuro do nosso planeta e dos nossos países. O desemprego beira 20%, ou seja, 1 em cada 4 portugueses.
                             </p>
                         </div>
                         <div class="bloco-perfil col-sm-4">
-                            <a class="perfil" href=""><img class="img-responsive" src="img/icone_dentista.jpg" alt="Ícone perfil"></a><br>
+                            <a class="perfil" href=""><img class="img-responsive" src="img/dentist13.png" alt="Ícone perfil"></a><br>
                             <h4>Paciente</h4>
                             <p>
                                 A população ela precisa da Zona Franca de Manaus, porque na Zona franca de Manaus, não é uma zona de exportação, é uma zona para o Brasil. Portanto ela tem um objetivo, ela evita o desmatamento, que é altamente lucravito. Derrubar arvores da natureza é muito lucrativo!
@@ -99,7 +95,12 @@
                 </div>
 
             </div>
+            <footer class="rodape">
+                © Copyright 2016 - SIMCON <br>
+                All rights reserved.
+            </footer>
         </div>
+        <div class="fpik">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
 
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>

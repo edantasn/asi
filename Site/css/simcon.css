@@ -8,11 +8,12 @@ body {
   padding: 0;
 }
 .topo {
-  background: #2992b2;
+  background: #2992b2 url("../img/bg.jpg") repeat;
   color: #fff;
 }
 .login {
-  height: 60px;
+  height: 77px;
+  max-height: 77px;
 }
 .table {
   display: table;
@@ -57,9 +58,15 @@ a.perfil {
 .rodape {
   background: #157da2;
   color: #fff;
-  margin-top: 600px;
+  /*margin-top: 600px;*/
   padding-top: 15px;
   padding-bottom: 15px;
   position: relative;
   text-align: center;
+}
+.tudo {
+
+}
+.fpik {
+  display: none;
 }
