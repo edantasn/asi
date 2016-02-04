@@ -6,17 +6,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         <title>Simcon - Sistema de Marcação de Consultas</title>
-        <link rel="icon" type="image/png" href="img/favicon.png">
+        <link rel="icon" type="image/png" href="../img/favicon.png">
         <meta name="theme-color" content="#006edd">
         <meta name="copyright" content="© 2016 @edantasn">
         <meta name="author" content="@edantasn">
         <meta name="keywords" content="">
         <meta name="description" content="">
         <!-- Estilo -->
-        <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
-        <link type="text/css" rel="stylesheet" href="css/material.min.css">
-        <link type="text/css" rel="stylesheet" href="css/ripples.min.css">
-        <link type="text/css" rel="stylesheet" href="css/simcon.css">
+        <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="../css/material.min.css">
+        <link type="text/css" rel="stylesheet" href="../css/ripples.min.css">
+        <link type="text/css" rel="stylesheet" href="../css/simcon.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -32,7 +32,7 @@
                 <div class="coluna col-md-2">
 
                     <div class="logo col-md-12 no-padding">
-                        <a href=""><img class="img-responsive" src="img/logo.jpg" alt="Logomarca Simcon"></a>
+                        <a href=""><img class="img-responsive" src="../img/logo.jpg" alt="Logomarca Simcon"></a>
                     </div>
 
                     <div class="menu col-md-12">
@@ -53,7 +53,7 @@
                         <div class="login col-xs-6">
                             <div class="table">
                                 <div class="cell">
-                                    <a href="#" title="Acesse sua área restrita" data-toggle="modal" data-target="#modal-login">Faça Login</a>
+                                    <a href="#" title="Acesse sua área restrita" data-toggle="modal" data-target="#modal-login">Nome usuário</a>
                                 </div>
                             </div>
                         </div>
@@ -68,37 +68,7 @@
                             </div>
                         </div>
                     </div>
-                    <header class="banner row">
 
-                    </header>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h2>Dúvidas de como funciona?</h2>
-                        </div>
-                        <div class="bloco-perfil col-sm-4 col-md-offset-2">
-                            <a class="perfil" href=""><img class="img-responsive" src="img/tooth26.png" alt="Ícone perfil"></a><br>
-                            <h4>Dentista</h4>
-                            <p>
-                                Primeiro eu queria cumprimentar os internautas. -Oi Internautas! Depois dizer que o meio ambiente é sem dúvida nenhuma uma ameaça ao desenvolvimento sustentável. E isso significa que é uma ameaça pro futuro do nosso planeta e dos nossos países. O desemprego beira 20%, ou seja, 1 em cada 4 portugueses.
-                            </p>
-                        </div>
-                        <div class="bloco-perfil col-sm-4">
-                            <a class="perfil" href=""><img class="img-responsive" src="img/dentist13.png" alt="Ícone perfil"></a><br>
-                            <h4>Paciente</h4>
-                            <p>
-                                A população ela precisa da Zona Franca de Manaus, porque na Zona franca de Manaus, não é uma zona de exportação, é uma zona para o Brasil. Portanto ela tem um objetivo, ela evita o desmatamento, que é altamente lucravito. Derrubar arvores da natureza é muito lucrativo!
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-10 col-md-offset-1 banner-f">
-                            <h2>Banner Informativo</h2>
-                            <p>
-                                Eu dou dinheiro pra minha filha. Eu dou dinheiro pra ela viajar, então é... é... Já vivi muito sem dinheiro, já vivi muito com dinheiro. -Jornalista: Coloca esse dinheiro na poupança que a senhora ganha R$10 mil por mês. -Dilma: O que que é R$10 mil?
-                            </p>
-                        </div>
-                    </div>
                 </div>
 
             </div>
@@ -152,9 +122,9 @@
             </div>
         </div>
 
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/material.min.js"></script>
-        <script src="js/ripples.min.js"></script>
+        <script src="../js/jquery.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/material.min.js"></script>
+        <script src="../js/ripples.min.js"></script>
     </body>
 </html>

@@ -4,6 +4,7 @@ body {
   background: #e0e0e0;
   font: normal 15px 'MyriadPro-Regular', Calibri, Garuda, Kalimati;
 }
+.no-padding { padding: 0; !important; }
 .coluna {
   padding: 0;
 }
@@ -11,9 +12,16 @@ body {
   background: #2992b2 url("../img/bg.jpg") repeat;
   color: #fff;
 }
+.topo a {
+  color: #fff;
+}
+.logo img { margin: 0 auto; }
 .login {
   height: 77px;
   max-height: 77px;
+}
+.menu {
+  margin-top: 15px;
 }
 .table {
   display: table;
@@ -28,12 +36,8 @@ body {
   background: url("../img/banner.jpg") no-repeat center;
   min-height: 400px;
 }
-.bloco-perfil {
-  text-align: center;
-}
-.bloco-perfil p {
-  text-align: justify;
-}
+.bloco-perfil { text-align: center; }
+.bloco-perfil p { text-align: justify; }
 a.perfil {
   display: block;
   outline: none;
@@ -41,6 +45,7 @@ a.perfil {
   margin: 0 auto;
   width: 110px;
 }
+.search { height: 77px; }
 .search input[type='text'] {
   color: #fff;
   float: right;
